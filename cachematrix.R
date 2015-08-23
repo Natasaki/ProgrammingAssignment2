@@ -3,8 +3,9 @@
 ## so when the second one is called, it will first check whether the invert is available as
 ## a cached matrix. If not it will compute it and store it in the cached data. 
 
-## NOTE: The code for the 2 functions is heavily based on sample code provided by the 
-## instructors of the coursera class "R Programming" for the calculation of cached mean.
+## NOTE: The code for the 2 functions is heavily based on sample code by the 
+## instructors of the coursera class "R Programming" for the calculation of cached mean
+## as shown in: https://class.coursera.org/rprog-031/human_grading/view/courses/975105/assessments/3/submissions 
 
 ## This function is a list of "subfunctions" that store and return your input matrices 
 ## and their inverts (in a way, creating the cached matrix).
